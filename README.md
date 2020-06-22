@@ -5,7 +5,8 @@
 
 
 ## CodeSandBox✔
-- If you visit CodeSandbox you'll find the keeper app ranging from ***Keeper V1.0.0.0*** to ***Keeper V3.0.0.0*** which is the complete set up
+- If you visit CodeSandbox you'll find the keeper app ranging from ***Keeper V1.0.0.0*** to ***Keeper V3.0.0.0*** which is the current version
+- I've versioned it this way to make it easy for you to progressively follow up.
 - https://codesandbox.io/u/Kuria-byte/sandboxes/
 ![keeper](https://user-images.githubusercontent.com/61579772/85286444-448efd00-b4c5-11ea-917c-97545bb93a82.jpg)
 
